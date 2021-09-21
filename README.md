@@ -4,4 +4,6 @@ Simple [Beginner Tailwind](https://beginnertailwind.com/) project site, built wi
 
 Works locally, does not work on Netlify. Don't care to troubleshoot.
 
+Edit: possibly requires specific compatibility postCSS version: https://exerror.com/error-postcss-plugin-tailwindcss-requires-postcss-8/
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/221d470f-988b-4a10-b9e6-28e2d3a0b232/deploy-status)](https://app.netlify.com/sites/optimistic-swartz-599da1/deploys)
